@@ -1,20 +1,21 @@
 class Solution {
 public:
+
+    double soln(double x, long n){
+        if(n == 0) return 1;
+        if(n < 0){
+            return 1/soln(x,n*-1);
+        }
+
+        if(n%2 == 0){
+            return soln(x*x,n/2);
+        }
+        else {
+            return x*soln(x*x,(n-1)/2);
+        }
+    }
+
     double myPow(double x, int n) {
-        // double ans = 1;
-        // if(n >= 0){
-        //     for(double i = 0;i<n/2;i++){
-        //         ans*=x;
-        //         ans*=ans;
-        //     }
-        //     return ans;
-        // }
-
-        // for(double i = 0;i<-n/2;i++){
-        //     ans/=x;
-        //     ans*=ans;
-        // }
-        return pow(x,n);
-
+        return soln(x,(long)n);
     }
 };
