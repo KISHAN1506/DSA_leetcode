@@ -3,18 +3,18 @@ public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
 
         int n = nums2.size();
-        stack<pair<int,int>> st;
+        stack<int> st;
         vector<int> nge(n);
     
         for(int i = nums2.size()-1;i>=0;i--){
-            while(!st.empty() && st.top().first<=nums2[i]){
+            while(!st.empty() && st.top()<=nums2[i]){
                 st.pop();
             }
             if(st.empty()) nge[i] = -1;
             else{
-                nge[i] = st.top().first;
+                nge[i] = st.top();
             }
-            st.push({nums2[i],i});
+            st.push(nums2[i]);
         }
 
 
