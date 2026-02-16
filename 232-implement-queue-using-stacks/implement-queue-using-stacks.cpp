@@ -25,13 +25,26 @@ public:
 
     
     int peek() {
-        stack<int> temp = s1;
-        stack<int> rev;
-        while(!temp.empty()){
-            rev.push(temp.top());
-            temp.pop();
+        while(!s1.empty()){
+            s2.push(s1.top());
+            s1.pop();
         }
-        return rev.top();
+        int val = s2.top();
+        while(!s2.empty()){
+            s1.push(s2.top());
+            s2.pop();
+        }
+
+        return val;
+
+        // Issue here is 2 more stacks
+        // stack<int> temp = s1;
+        // stack<int> rev;
+        // while(!temp.empty()){
+        //     rev.push(temp.top());
+        //     temp.pop();
+        // }
+        // return rev.top();
     }
     
     bool empty() {
