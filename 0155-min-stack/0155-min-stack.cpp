@@ -5,11 +5,11 @@ public:
     }
     
     void push(int value) {
-        if(stt.empty()){
+        if(!stt.empty()){
+            stt.push({value,min(stt.top().second,value)});
+        }else{
             stt.push({value,value});
-            return;
         }
-        stt.push({value,min(stt.top().second,value)});
     }
     
     void pop() {
