@@ -13,4 +13,12 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1189-maximum-number-of-balloons) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
