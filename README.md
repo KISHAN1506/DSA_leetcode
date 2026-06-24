@@ -25,8 +25,10 @@
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
