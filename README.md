@@ -4,12 +4,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0127-word-ladder) |
 | [1189-maximum-number-of-balloons](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0127-word-ladder) |
 | [1189-maximum-number-of-balloons](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -49,6 +51,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1020-number-of-enclaves) |
