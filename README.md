@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0127-word-ladder) |
+| [0424-longest-repeating-character-replacement](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1189-maximum-number-of-balloons](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -12,6 +13,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0127-word-ladder) |
+| [0424-longest-repeating-character-replacement](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1189-maximum-number-of-balloons](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -94,5 +96,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
