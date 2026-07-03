@@ -12,7 +12,7 @@ public:
             hash[s[r] - 'A']++;
             maxFreq = max(maxFreq,hash[s[r] - 'A']);
 
-            while((r-l+1)-maxFreq > k){ // not valid, so trim down the window
+            if((r-l+1)-maxFreq > k){ // not valid, so trim down the window once
                 hash[s[l] - 'A']--;
                 maxFreq = 0;
                 for(int i = 0;i<26;i++){
