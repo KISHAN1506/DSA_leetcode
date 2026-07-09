@@ -12,6 +12,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1189-maximum-number-of-balloons](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -51,6 +52,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0022-generate-parentheses) |
 | [0542-01-matrix](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0542-01-matrix) |
 ## Breadth-First Search
 |  |
@@ -85,6 +87,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0046-permutations) |
 ## Depth-First Search
 |  |
