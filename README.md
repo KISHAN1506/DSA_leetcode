@@ -35,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0057-insert-interval) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0045-jump-game-ii) |
 | [0542-01-matrix](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0542-01-matrix) |
 ## Breadth-First Search
 |  |
@@ -129,4 +131,8 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0056-merge-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1331-rank-transform-of-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
