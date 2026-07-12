@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0046-permutations) |
+| [0056-merge-intervals](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0057-insert-interval) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0130-surrounded-regions) |
@@ -126,5 +127,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0056-merge-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
