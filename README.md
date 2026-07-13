@@ -135,4 +135,8 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0045-jump-game-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
