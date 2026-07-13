@@ -1,10 +1,11 @@
 class Solution {
 public:
-    static bool comp(vector<int> a,vector<int> b){
+    static bool comp(vector<int> &a,vector<int> &b){
         return a[1] < b[1];
     }
 
     int eraseOverlapIntervals(vector<vector<int>>& intervals) {
+        if(intervals.empty()) return 0;
         sort(intervals.begin(),intervals.end(),comp);
         int cnt = 1;
         int lastEndTime = intervals[0][1];
@@ -13,7 +14,7 @@ public:
         for(int i = 1;i<n;i++){
             if(intervals[i][0] >= lastEndTime){
                 cnt++;
-                lastEndTime = intervals[i][1]; // should be 1st idx of the vector
+                lastEndTime = intervals[i][1];
             }
         }
 
