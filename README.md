@@ -43,6 +43,7 @@
 | [0130-surrounded-regions](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0162-find-peak-element) |
+| [0435-non-overlapping-intervals](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1020-number-of-enclaves) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0045-jump-game-ii) |
+| [0435-non-overlapping-intervals](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0542-01-matrix) |
 ## Breadth-First Search
 |  |
@@ -131,12 +133,14 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Enumeration
 |  |
 | ------- |
