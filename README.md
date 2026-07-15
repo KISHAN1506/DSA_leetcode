@@ -109,6 +109,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0130-surrounded-regions) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -154,11 +155,13 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Number Theory
 |  |
 | ------- |
