@@ -126,6 +126,7 @@
 ## Math
 |  |
 | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Graph Theory
 |  |
@@ -155,4 +156,8 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
