@@ -68,6 +68,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0127-word-ladder](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0542-01-matrix) |
@@ -151,10 +152,12 @@
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Number Theory
 |  |
