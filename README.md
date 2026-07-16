@@ -51,6 +51,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Graph Theory
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 | [0056-merge-intervals](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -166,4 +169,13 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
