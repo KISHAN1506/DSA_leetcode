@@ -50,6 +50,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -131,6 +132,7 @@
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -172,6 +174,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
