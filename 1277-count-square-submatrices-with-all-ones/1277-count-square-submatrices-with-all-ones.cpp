@@ -8,13 +8,24 @@ public:
 
         int ans = 0;
         for(int i = 0;i<n;i++){
-            for(int j = 0;j<m;j++){
-                if(i == 0 || j == 0){
-                    dp[i][j] = grid[i][j];
-                    ans += dp[i][j];
-                }
-            }
+            dp[i][0] = grid[i][0];
+            ans += dp[i][0];
         }
+        for(int j = 0;j<m;j++){
+            dp[0][j] = grid[0][j];
+            ans += dp[0][j];
+        }
+
+        ans -= dp[0][0]; // counted twice
+
+        // for(int i = 0;i<n;i++){
+        //     for(int j = 0;j<m;j++){
+        //         if(i == 0 || j == 0){
+        //             dp[i][j] = grid[i][j];
+        //             ans += dp[i][j];
+        //         }
+        //     }
+        // }
         for(int i = 1;i<n;i++){
             for(int j = 1;j<m;j++){
                 if(grid[i][j] == 0){
