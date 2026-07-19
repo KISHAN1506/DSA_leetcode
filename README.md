@@ -62,6 +62,7 @@
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1901-find-a-peak-element-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Dynamic Programming
 |  |
@@ -168,6 +169,7 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
@@ -175,6 +177,7 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Number Theory
@@ -191,4 +194,8 @@
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
