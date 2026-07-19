@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0013-roman-to-integer) |
 | [0127-word-ladder](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1189-maximum-number-of-balloons](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0013-roman-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
