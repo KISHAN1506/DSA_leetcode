@@ -51,6 +51,7 @@
 | [0542-01-matrix](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1020-number-of-enclaves) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -72,6 +73,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0542-01-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | [0542-01-matrix](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1020-number-of-enclaves) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1901-find-a-peak-element-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
