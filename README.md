@@ -50,6 +50,7 @@
 | [0435-non-overlapping-intervals](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0695-max-area-of-island) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -65,6 +66,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1901-find-a-peak-element-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Dynamic Programming
 |  |
