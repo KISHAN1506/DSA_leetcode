@@ -56,6 +56,7 @@
 | [0368-largest-divisible-subset](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0695-max-area-of-island) |
 | [0881-boats-to-save-people](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0881-boats-to-save-people) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -170,6 +171,7 @@
 | [0012-integer-to-roman](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0013-roman-to-integer) |
 | [0368-largest-divisible-subset](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0368-largest-divisible-subset) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -187,6 +189,7 @@
 | [0056-merge-intervals](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0056-merge-intervals) |
 | [0368-largest-divisible-subset](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0881-boats-to-save-people) |
 | [1048-longest-string-chain](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1331-rank-transform-of-an-array) |
