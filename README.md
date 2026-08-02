@@ -62,6 +62,7 @@
 | [0200-number-of-islands](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0200-number-of-islands) |
 | [0368-largest-divisible-subset](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -101,6 +102,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0368-largest-divisible-subset](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0542-01-matrix) |
 | [1048-longest-string-chain](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1048-longest-string-chain) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -180,6 +182,7 @@
 | [0012-integer-to-roman](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0013-roman-to-integer) |
 | [0368-largest-divisible-subset](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -277,4 +280,12 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
