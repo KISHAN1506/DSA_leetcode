@@ -18,6 +18,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0022-generate-parentheses) |
@@ -97,6 +98,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0045-jump-game-ii) |
@@ -255,6 +257,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0042-trapping-rain-water) |
 | [0881-boats-to-save-people](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0881-boats-to-save-people) |
 | [1048-longest-string-chain](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1048-longest-string-chain) |
