@@ -131,6 +131,7 @@
 | [0695-max-area-of-island](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | [0695-max-area-of-island](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -213,6 +215,7 @@
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3310-remove-methods-from-project) |
 ## Sorting
 |  |
 | ------- |
