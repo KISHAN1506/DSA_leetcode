@@ -66,6 +66,7 @@
 | [0135-candy](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0200-number-of-islands) |
+| [0287-find-the-duplicate-number](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0486-predict-the-winner) |
@@ -100,6 +101,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1901-find-a-peak-element-ii) |
@@ -277,6 +279,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0042-trapping-rain-water) |
+| [0287-find-the-duplicate-number](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0881-boats-to-save-people](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0881-boats-to-save-people) |
 | [1048-longest-string-chain](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1048-longest-string-chain) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -289,6 +292,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Monotonic Stack
@@ -322,4 +326,12 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1406-stone-game-iii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
