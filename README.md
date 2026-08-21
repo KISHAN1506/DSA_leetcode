@@ -54,6 +54,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0621-task-scheduler](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0695-max-area-of-island) |
+| [0739-daily-temperatures](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0881-boats-to-save-people) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -323,6 +325,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0739-daily-temperatures) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
