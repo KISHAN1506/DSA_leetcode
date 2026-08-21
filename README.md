@@ -10,6 +10,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0621-task-scheduler) |
 | [1048-longest-string-chain](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -79,6 +80,7 @@
 | [0368-largest-divisible-subset](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0486-predict-the-winner) |
+| [0525-contiguous-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -177,6 +179,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0525-contiguous-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
