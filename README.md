@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0013-roman-to-integer) |
 | [0127-word-ladder](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0127-word-ladder) |
@@ -63,6 +64,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0042-trapping-rain-water) |
