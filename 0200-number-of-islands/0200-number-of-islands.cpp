@@ -1,48 +1,47 @@
 class Solution {
-public: 
-    void bfs(int i,int j,vector<vector<char>>& grid,vector<vector<int>>& vis,int &n,int &m,queue<pair<int,int>>& q){
-        vector<int> drow = {-1,0,1,0};
-        vector<int> dcol = {0,1,0,-1};
-        while(!q.empty()){
-            auto it = q.front();
+public:
+    void bfs(vector<vector<char>>& grid, vector<vector<int>>& vis,
+             int n, int m, queue<pair<int, int>>& q) {
+        vector<int> drow = {-1, 0, 1, 0};
+        vector<int> dcol = {0, 1, 0, -1};
+
+        while (!q.empty()) {
+            int row = q.front().first;
+            int col = q.front().second;
+
             q.pop();
-            int row = it.first;
-            int col = it.second;
+            for (int k = 0; k < 4; k++) {
+                int nrow = row + drow[k];
+                int ncol = col + dcol[k];
 
-
-            for(int i = 0;i<4;i++){
-                int nrow = row + drow[i];
-                int ncol = col + dcol[i];
-
-                if(nrow >=0 && nrow < n && ncol >=0 && ncol < m 
-                    && grid[nrow][ncol] == '1' && !vis[nrow][ncol]){
-                        vis[nrow][ncol] = 1;
-                        q.push({nrow,ncol});
-                    }
+                if (nrow < n && nrow >= 0 && ncol < m && ncol >= 0 &&
+                    grid[nrow][ncol] == '1' && !vis[nrow][ncol]) {
+                    q.push({nrow, ncol});
+                    vis[nrow][ncol] = 1;
+                }
             }
         }
     }
-
 
     int numIslands(vector<vector<char>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
 
-        vector<vector<int>> vis(n,vector<int>(m,0));
-
+        vector<vector<int>> vis(n, vector<int>(m, 0));
+        queue<pair<int, int>> q;
         int cnt = 0;
-        queue<pair<int,int>> q;
-        for(int i = 0;i<n;i++){
-            for(int j = 0;j<m;j++){
-                if(grid[i][j] == '1' && !vis[i][j]){
-                    q.push({i,j});
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (grid[i][j] == '1' && !vis[i][j]) {
+                    q.push({i, j});
                     vis[i][j] = 1;
-                    bfs(i,j,grid,vis,n,m,q);
+                    bfs(grid, vis, n, m, q);
                     cnt++;
                 }
             }
         }
+
         return cnt;
-        
     }
 };
