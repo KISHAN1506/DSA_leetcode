@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0042-trapping-rain-water) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0739-daily-temperatures) |
 ## Design
@@ -203,6 +204,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0101-symmetric-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -299,6 +301,7 @@
 | [0100-same-tree](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -310,6 +313,7 @@
 | [0100-same-tree](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -390,5 +394,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
