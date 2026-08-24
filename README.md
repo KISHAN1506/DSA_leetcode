@@ -84,6 +84,7 @@
 | [0135-candy](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0368-largest-divisible-subset) |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0215-kth-largest-element-in-an-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -263,6 +265,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0621-task-scheduler) |
@@ -358,6 +361,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0621-task-scheduler) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
@@ -396,4 +400,8 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0141-linked-list-cycle) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
