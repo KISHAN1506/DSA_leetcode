@@ -16,6 +16,6 @@ public:
 
     int rob(vector<int>& nums) {
         vector<int> dp(nums.size()+1,-1);
-        return max(totWay(0,nums,dp),totWay(1,nums,dp));
+        return totWay(0,nums,dp);
     }
 };
