@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -411,6 +412,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0141-linked-list-cycle) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Quickselect
