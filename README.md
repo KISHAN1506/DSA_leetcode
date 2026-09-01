@@ -13,6 +13,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0299-bulls-and-cows](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0299-bulls-and-cows) |
 | [0424-longest-repeating-character-replacement](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0621-task-scheduler) |
@@ -39,6 +40,7 @@
 | [0049-group-anagrams](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0127-word-ladder) |
 | [0166-fraction-to-recurring-decimal](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0299-bulls-and-cows](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0299-bulls-and-cows) |
 | [0424-longest-repeating-character-replacement](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1048-longest-string-chain](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -51,6 +53,7 @@
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0299-bulls-and-cows) |
 | [0621-task-scheduler](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1512-number-of-good-pairs) |
