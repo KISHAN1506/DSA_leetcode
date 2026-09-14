@@ -270,6 +270,7 @@
 | [0368-largest-divisible-subset](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1512-number-of-good-pairs) |
@@ -455,4 +456,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0493-reverse-pairs) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
