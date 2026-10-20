@@ -24,6 +24,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1512-number-of-good-pairs) |
+| [2947-count-beautiful-substrings-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -47,6 +48,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2947-count-beautiful-substrings-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -224,6 +226,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0525-contiguous-array) |
+| [2947-count-beautiful-substrings-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -281,6 +284,7 @@
 | [1406-stone-game-iii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2947-count-beautiful-substrings-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -338,6 +342,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1291-sequential-digits) |
+| [2947-count-beautiful-substrings-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Tree
@@ -368,6 +373,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2947-count-beautiful-substrings-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
