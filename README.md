@@ -40,6 +40,7 @@
 | [0013-roman-to-integer](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0058-length-of-last-word) |
 | [0127-word-ladder](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0127-word-ladder) |
 | [0166-fraction-to-recurring-decimal](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0299-bulls-and-cows](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0299-bulls-and-cows) |
