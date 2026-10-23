@@ -88,6 +88,7 @@
 | [0049-group-anagrams](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0130-surrounded-regions) |
@@ -238,6 +239,7 @@
 | [0022-generate-parentheses](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0078-subsets) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -397,6 +399,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1386-cinema-seat-allocation) |
