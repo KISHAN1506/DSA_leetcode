@@ -49,6 +49,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2409-count-days-spent-together](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2409-count-days-spent-together) |
 | [2947-count-beautiful-substrings-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -288,6 +289,7 @@
 | [1406-stone-game-iii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2409-count-days-spent-together) |
 | [2947-count-beautiful-substrings-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
