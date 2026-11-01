@@ -12,11 +12,15 @@
 class Solution {
 public:
     int minDepth(TreeNode* root) {
-        if (root == nullptr) return 0;
+        if(!root) return 0;
 
-        if (root->left == nullptr) return 1 + minDepth(root->right);
-        if (root->right == nullptr) return 1 + minDepth(root->left);
+        if(root->left == NULL && root->right == NULL){
+            return 1;
+        }
 
-        return 1 + min(minDepth(root->left), minDepth(root->right));
+        int left = root->left != NULL ? minDepth(root->left) : INT_MAX;
+        int right = root->right != NULL ? minDepth(root->right) : INT_MAX;
+
+        return 1 + min(left,right);
     }
 };
