@@ -124,6 +124,7 @@
 | [1260-shift-2d-grid](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -161,6 +162,7 @@
 | [0287-find-the-duplicate-number](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0493-reverse-pairs) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -348,6 +350,7 @@
 | [0881-boats-to-save-people](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0881-boats-to-save-people) |
 | [1048-longest-string-chain](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -424,6 +427,7 @@
 | [0287-find-the-duplicate-number](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0881-boats-to-save-people](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0881-boats-to-save-people) |
 | [1048-longest-string-chain](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
