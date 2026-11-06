@@ -24,6 +24,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1512-number-of-good-pairs) |
+| [2747-count-zero-request-servers](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2747-count-zero-request-servers) |
 | [2947-count-beautiful-substrings-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -136,6 +137,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2747-count-zero-request-servers](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -299,6 +301,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2747-count-zero-request-servers](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
@@ -353,6 +356,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
