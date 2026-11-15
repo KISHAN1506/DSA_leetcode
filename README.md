@@ -140,6 +140,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2747-count-zero-request-servers](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -254,6 +255,7 @@
 | [0525-contiguous-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0525-contiguous-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2947-count-beautiful-substrings-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2947-count-beautiful-substrings-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -306,6 +308,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2747-count-zero-request-servers](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Math
 |  |
 | ------- |
