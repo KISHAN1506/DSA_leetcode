@@ -134,6 +134,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1901-find-a-peak-element-ii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -326,6 +327,7 @@
 | [0877-stone-game](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1512-number-of-good-pairs) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2409-count-days-spent-together) |
 | [2947-count-beautiful-substrings-i](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2947-count-beautiful-substrings-i) |
@@ -447,6 +449,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1260-shift-2d-grid) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/KISHAN1506/DSA_leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KISHAN1506/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -481,6 +484,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0486-predict-the-winner) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Game Theory
 |  |
 | ------- |
@@ -541,4 +545,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KISHAN1506/DSA_leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/KISHAN1506/DSA_leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
